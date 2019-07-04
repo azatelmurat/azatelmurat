@@ -1,0 +1,23 @@
+body{margin: 0px; color: #008080;}
+#fixed{
+             position: #008080;
+             left: 0px;
+             bottom:0px;
+             width: 100%;
+             height: 50px;
+             background-color: #008080;
+             text-align: center;
+             line-height: 50px;
+             font-size: 21px;
+             color: white;
+             border-top: 1px solid #008080;
+}
+#text{
+
+            width: 600px;
+            margin: 10px auto 60px auto;
+            padding: 20px;
+            border: 1px solid #008080;
+            border-radius: 0px 0px 0px 0px;
+}
+h1{margin: 0px; color: #008080;}
